@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="448.529" height="566.205" viewBox="0 0 448.529 566.205">
+  <g id="Group_372" data-name="Group 372" transform="translate(-787.081 -329.25)">
+    <text id="_2008" data-name="2008" transform="translate(813.916 863.455)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">2008</tspan></text>
+    <text id="_70M" data-name="70M" transform="translate(787.081 446.85)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">70M</tspan></text>
+    <text id="_35M" data-name="35M" transform="translate(788.424 619.977)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">35M</tspan></text>
+    <text id="_2012" data-name="2012" transform="translate(929.428 863.455)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">2012</tspan></text>
+    <text id="_2016" data-name="2016" transform="translate(1050.512 863.455)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">2016</tspan></text>
+    <text id="_2020" data-name="2020" transform="translate(1171.025 863.455)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" font-weight="700"><tspan x="0" y="23">2020</tspan></text>
+    <text id="Winery_water_usage_Gallons_" data-name="Winery water usage 
+(Gallons)" transform="translate(807.61 329.25)" fill="#3a4f58" font-size="24" font-family="TradeGothic-Bold, TradeGothic" letter-spacing="0.055em" font-weight="700"><tspan x="-125.496" y="23">WINERY WATER USAGE </tspan><tspan font-family="TradeGothic-CondEighteen, TradeGothic" font-weight="400"><tspan x="-49.944" y="53">(GALLONS)</tspan></tspan></text>
+    <g id="Group_305" data-name="Group 305" transform="translate(841.191 456.857)">
+      <line id="Line_1" data-name="Line 1" x2="360.486" transform="translate(0 86.948)" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_2" data-name="Line 2" x2="360.486" transform="translate(0 173.897)" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_3" data-name="Line 3" x2="360.486" transform="translate(0 260.845)" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="1"/>
+      <path id="Path_8464" data-name="Path 8464" d="M-681.8-1869.127l30.262,86.948,30.262-13.833h30.262l29.731,7.246,29.819-42.157,59.019,55.331,31.323,55.66,29.731-22.725,29.554,11.856,60.523-23.713" transform="translate(681.802 1896.793)" fill="none" stroke="#ffac00" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
+      <line id="Line_4" data-name="Line 4" y1="347.793" transform="translate(120.516)" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="1"/>
+      <line id="Line_5" data-name="Line 5" y1="347.793" transform="translate(240.236)" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="1"/>
+      <rect id="Rectangle_259" data-name="Rectangle 259" width="360.486" height="347.793" fill="none" stroke="#bcbcbc" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <line id="Line_6" data-name="Line 6" y2="28.208" transform="translate(841.863 822.89)" fill="none" stroke="#bcbcbc" stroke-width="1" stroke-dasharray="1"/>
+    <line id="Line_7" data-name="Line 7" y2="28.208" transform="translate(961.411 822.89)" fill="none" stroke="#bcbcbc" stroke-width="1" stroke-dasharray="1"/>
+    <line id="Line_8" data-name="Line 8" y2="28.208" transform="translate(1080.959 822.89)" fill="none" stroke="#bcbcbc" stroke-width="1" stroke-dasharray="1"/>
+    <line id="Line_9" data-name="Line 9" y2="28.208" transform="translate(1200.507 821.547)" fill="none" stroke="#bcbcbc" stroke-width="1" stroke-dasharray="1"/>
+  </g>
+</svg>
